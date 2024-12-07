@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Azizaru",
-    "slug": "azizaru",
+    "name": "Myrayoo",
+    "slug": "myrayoo",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
-    "scheme": "azizaru",
+    "icon": "./assets/images/logo.png",
+    "scheme": "myrayoo",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {

@@ -9,9 +9,24 @@
     }
   },
   "include": [
-    "**/*.ts",
-    "**/*.tsx",
+    "**/*.js",
+    "**/*.jsx",
+    ".expo/types/**/*.js",
+    "expo-env.d.js",
+    "app/_layout.jsx",
+    "nativewind-env.d.js",
+    "app/index.jsx",
+    "app/search/[query].jsx",
+    "app/(auth)/Signup.jsx",
+    "app/(auth)/Signin.jsx",
+    "app/(auth)/_layout.jsx",
+    "app/(tabs)/profile.jsx",
+    "app/(tabs)/home.jsx",
+    "app/(tabs)/create.jsx",
+    "app/(tabs)/bookmark.jsx",
+    "app/(tabs)/_layout.jsx",
+    "nativewind-env.d.ts",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-, "app/_layout.jsx"  ]
+  ]
 }
